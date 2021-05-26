@@ -23,6 +23,13 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "Prato Teste  asd",
+      "price": "19.90",
+      "description": "Descrição teste",
+      "id": 4
     }
   ]
 }
